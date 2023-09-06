@@ -1,0 +1,43 @@
+{
+  "name": "@jill64/download-local",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Download local file via <a> on browser",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
+  "bugs": "https://github.com/jill64/download-local/issues",
+  "homepage": "https://github.com/jill64/download-local#readme",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "keywords": [
+    "file"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jill64/download-local.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc && publint",
+    "lint": "prettier --check . && eslint .",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.6.0",
+    "@typescript-eslint/parser": "^6.6.0",
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3",
+    "publint": "^0.2.2",
+    "typescript": "^5.2.2"
+  }
+}
