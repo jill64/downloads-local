@@ -1,11 +1,11 @@
-# download-local
+# downloads-local
 
-Download local file via \<a> on browser
+Download local file via a tag on browser
 
 ## Install
 
 ```sh
-npm i @jill64/download-local
+npm i @jill64/downloads-local
 ```
 
 ## Usage
@@ -13,6 +13,8 @@ npm i @jill64/download-local
 Download Blob
 
 ```js
+import { download } from ' @jill64/downloads-local'
+
 download(
   'filename.xxx',
   new Blob([
@@ -24,5 +26,7 @@ download(
 or data URL
 
 ```js
+import { download } from ' @jill64/downloads-local'
+
 download('filename.xxx', 'data:xxxxxxxxxxxx')
 ```

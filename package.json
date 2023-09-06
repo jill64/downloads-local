@@ -1,13 +1,13 @@
 {
-  "name": "@jill64/download-local",
+  "name": "@jill64/downloads-local",
   "version": "0.1.0",
   "type": "module",
-  "description": "Download local file via <a> on browser",
+  "description": "Download local file via a tag on browser",
   "main": "dist/index.js",
   "license": "MIT",
   "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
-  "bugs": "https://github.com/jill64/download-local/issues",
-  "homepage": "https://github.com/jill64/download-local#readme",
+  "bugs": "https://github.com/jill64/downloads-local/issues",
+  "homepage": "https://github.com/jill64/downloads-local#readme",
   "files": [
     "dist"
   ],
@@ -18,11 +18,12 @@
     }
   },
   "keywords": [
+    "browser",
     "file"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jill64/download-local.git"
+    "url": "https://github.com/jill64/downloads-local.git"
   },
   "publishConfig": {
     "access": "public"
