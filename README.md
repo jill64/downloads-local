@@ -1,5 +1,7 @@
 # downloads-local
 
+![github-actions-ci](https://github.com/jill64/downloads-local/actions/workflows/ci.yml/badge.svg)
+
 Download local file via a tag on browser
 
 ## Install
