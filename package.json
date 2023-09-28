@@ -1,6 +1,6 @@
 {
   "name": "@jill64/downloads-local",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "Download local file via a tag on browser",
   "main": "dist/index.js",
