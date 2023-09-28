@@ -1,6 +1,6 @@
 {
   "name": "@jill64/downloads-local",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "Download local file via a tag on browser",
   "main": "dist/index.js",
@@ -38,7 +38,7 @@
     "@typescript-eslint/parser": "6.7.3",
     "eslint": "8.50.0",
     "prettier": "3.0.3",
-    "publint": "0.2.2",
+    "publint": "0.2.3",
     "typescript": "5.2.2"
   }
 }
