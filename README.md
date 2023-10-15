@@ -1,7 +1,6 @@
 # downloads-local
 
 [![npm](https://img.shields.io/npm/v/%40jill64%2Fdownloads-local)](https://npmjs.com/package/@jill64/downloads-local)
-[![CI](https://github.com/jill64/downloads-local/actions/workflows/ci.yml/badge.svg)](https://github.com/jill64/downloads-local/actions/workflows/ci.yml)
 
 Download local file via a tag on browser
 
