@@ -2,7 +2,7 @@
   "name": "@jill64/downloads-local",
   "version": "1.0.10",
   "type": "module",
-  "description": "Download local file via a tag on browser",
+  "description": "Download local file via a-tag on browser",
   "main": "dist/index.js",
   "license": "MIT",
   "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
