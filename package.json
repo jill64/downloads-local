@@ -17,10 +17,6 @@
       "default": "./dist/index.js"
     }
   },
-  "keywords": [
-    "browser",
-    "file"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/downloads-local.git"
