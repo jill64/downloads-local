@@ -1,9 +1,5 @@
-# @jill64/downloads-local
-
-[![npm](https://img.shields.io/npm/v/%40jill64%2Fdownloads-local)](https://npmjs.com/package/@jill64/downloads-local)
-[![npm](https://img.shields.io/npm/l/%40jill64%2Fdownloads-local)](https://npmjs.com/package/@jill64/downloads-local)
-
-Download local file via a-tag on browser
+<!----- BEGIN GHOST DOCS HEADER ----->
+<!----- END GHOST DOCS HEADER ----->
 
 ## Installation
 
