@@ -24,6 +24,12 @@
   "publishConfig": {
     "access": "public"
   },
+  "keywords": [
+    "browser",
+    "local",
+    "download",
+    "blob"
+  ],
   "scripts": {
     "build": "tsc && npx publint",
     "prepack": "npm run build",
