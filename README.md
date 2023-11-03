@@ -6,6 +6,12 @@
 
 ⬇️ Download local file via a-tag on browser
 
+## Install
+
+```sh
+npm i @jill64/downloads-local
+```
+
 <!----- END GHOST DOCS HEADER ----->
 
 ## Usage
