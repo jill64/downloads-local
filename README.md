@@ -8,12 +8,6 @@
 
 <!----- END GHOST DOCS HEADER ----->
 
-## Installation
-
-```sh
-npm i @jill64/downloads-local
-```
-
 ## Usage
 
 Download Blob
