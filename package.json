@@ -9,7 +9,9 @@
   "bugs": "https://github.com/jill64/downloads-local/issues",
   "homepage": "https://github.com/jill64/downloads-local#readme",
   "files": [
-    "dist"
+    "dist",
+    "!*.test.*",
+    "!*.spec.*"
   ],
   "exports": {
     ".": {
@@ -26,9 +28,9 @@
   },
   "keywords": [
     "browser",
-    "local",
     "download",
-    "blob"
+    "local",
+    "utility"
   ],
   "scripts": {
     "build": "tsc && npx publint",
