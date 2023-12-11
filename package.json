@@ -5,7 +5,12 @@
   "description": "⬇️ Download local file via a-tag on browser",
   "main": "dist/index.js",
   "license": "MIT",
-  "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
+  "author": {
+    "name": "jill64",
+    "email": "143883742+jill64@users.noreply.github.com",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
+  },
   "bugs": "https://github.com/jill64/downloads-local/issues",
   "homepage": "https://github.com/jill64/downloads-local#readme",
   "files": [
@@ -19,7 +24,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jill64/downloads-local.git"
+    "url": "https://github.com/jill64/downloads-local.git",
+    "image": "https://opengraph.githubassets.com/4c9a567450ab5126b174cba0c9d2085b5ebf6049e98649af6b61a2705de8fbf1/jill64/downloads-local"
   },
   "publishConfig": {
     "access": "public"
