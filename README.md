@@ -30,3 +30,11 @@ import { download } from '@jill64/downloads-local'
 
 download('filename.xxx', 'data:xxxxxxxxxxxx')
 ```
+
+<!----- BEGIN GHOST DOCS FOOTER ----->
+
+## License
+
+MIT
+
+<!----- END GHOST DOCS FOOTER ----->
