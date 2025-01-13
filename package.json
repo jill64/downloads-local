@@ -25,7 +25,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/downloads-local.git",
-    "image": "https://opengraph.githubassets.com/adc6bf15eb3bc51ae06ac5743ef871fe1401447d1e4513878c8128c302a3529a/jill64/downloads-local"
+    "image": "https://opengraph.githubassets.com/1b5f405be28b05cc2183d85e68ab90b9c7ba97709ad952e119da1b9c6fe364c8/jill64/downloads-local"
   },
   "publishConfig": {
     "access": "public"
