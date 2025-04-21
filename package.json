@@ -25,7 +25,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/downloads-local.git",
-    "image": "https://opengraph.githubassets.com/61dcb2d95f80828fef6568a09fc80408a1a98537d74ef582a1eb80e937810fd7/jill64/downloads-local"
+    "image": "https://opengraph.githubassets.com/8eefa533836f79738ac8291af9c4f7294f9308b36291b0d6e6977138833e03bc/jill64/downloads-local"
   },
   "publishConfig": {
     "access": "public"
@@ -44,7 +44,7 @@
   },
   "prettier": "@jill64/prettier-config",
   "devDependencies": {
-    "@jill64/eslint-config-ts": "2.0.29",
+    "@jill64/eslint-config-ts": "2.0.30",
     "@jill64/prettier-config": "1.0.0",
     "typescript": "5.8.3"
   }
